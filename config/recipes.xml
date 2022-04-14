@@ -1,0 +1,53 @@
+<configs>
+
+  <append xpath="/recipes">
+	<recipe name="ammoBundle9mmBulletBall" count="1" craft_time="80" tags="learnable">
+		<ingredient name="ammo9mmBulletBall" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundle9mmBulletHP" count="1" craft_time="120" tags="learnable">
+		<ingredient name="ammo9mmBulletHP" count="100"/>
+	</recipe>
+
+	<recipe name="ammoBundle9mmBulletAP" count="1" craft_time="120" tags="learnable">
+		<ingredient name="ammo9mmBulletAP" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundle44MagnumBulletBall" count="1" craft_time="80" tags="learnable">
+		<ingredient name="ammo44MagnumBulletBall" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundle44MagnumBulletHP" count="1" craft_time="120" tags="learnable">
+		<ingredient name="ammo44MagnumBulletHP" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundle44MagnumBulletAP" count="1" craft_time="120" tags="learnable">
+		<ingredient name="ammo44MagnumBulletAP" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundle762mmBulletBall" count="1" craft_time="80" tags="learnable">
+		<ingredient name="ammo762mmBulletBall" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundle762mmBulletHP" count="1" craft_time="120" tags="learnable">
+		<ingredient name="ammo762mmBulletHP" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundle762mmBulletAP" count="1" craft_time="120" tags="learnable">
+		<ingredient name="ammo762mmBulletAP" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundleShotgunShell" count="1" craft_time="80" tags="learnable">
+		<ingredient name="ammoShotgunShell" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundleShotgunSlug" count="1" craft_time="120" tags="learnable">
+		<ingredient name="ammoShotgunSlug" count="100"/>
+	</recipe>
+	
+	<recipe name="ammoBundleShotgunBreachingSlug" count="1" craft_time="120" tags="learnable">
+		<ingredient name="ammoShotgunBreachingSlug" count="100"/>
+	</recipe>
+  </append>
+
+</configs>
