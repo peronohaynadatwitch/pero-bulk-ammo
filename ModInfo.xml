@@ -1,0 +1,9 @@
+
+<xml>
+	<ModInfo>
+		<Name value="Bulk ammo Enhancement mod" />
+		<Description value="Adds recipes to craft bulk ammo from finished bullets" />
+		<Author value="peronohaynada" />
+		<Version value="1.0" />
+	</ModInfo>
+</xml>
